@@ -1,9 +1,0 @@
-This package brings MooTools 1.3 Server to nodejs.
-
-Simply do:
-
-npm install mootools
-
-and do `require('mootools')` in your code.
-
-You can use classes and other mootools goodies in your nodejs code.

@@ -1,0 +1,28 @@
+{
+	"name": "mootools",
+	"version": "1.3.1",
+	"description": "MooTools 1.3.1 Server library",
+	"keywords": ["mootools", "oop", "class"],
+	"homepage": "http://github.com/vsviridov/mootools-node",
+	"main": "./lib/mootools-core-1.3.1-server.js",
+	files:
+	[
+		"README",
+		"lib/mootools-core-1.3.1-server.js"
+	],
+	"author":
+	{
+		"name": "Vasili Sviridov",
+		"email": "vasili@sviridov.ca",
+		"url": "http://github.com/vsviridov/"
+	},
+	"repository":
+	{
+		"type": "git",
+		"url": "http://github.com/vsviridov/motools-node.git"
+	},
+	"engines":
+	{
+		"node" : ">=0.4.3"
+	}
+}

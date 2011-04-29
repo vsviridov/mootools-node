@@ -1,4 +1,4 @@
-# MooTools 1.3.1 Server
+# MooTools 1.3.2 Server
 
 For more information about mootools in general I suggest you visit http://mootools.net
 In short it is a library for web development, with support for OOP.
@@ -27,7 +27,7 @@ Calling `require('mootools')` will import it into the global scope, and you'll b
             this.emit("done");
         }
     });
-    
+
     var app = new Application();
     app.on("done", function() { /* Callback */ });
     app.compute();

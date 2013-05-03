@@ -1,23 +1,27 @@
 {
-	"name": "mootools",
-	"version": "1.4.5",
-	"description": "MooTools 1.4.5 Server library",
-	"keywords": ["mootools", "oop", "class"],
-	"homepage": "http://github.com/vsviridov/mootools-node",
-	"main": "./lib/mootools-core-1.4.5-server.js",
-	"author":
-	{
-		"name": "Vasili Sviridov",
-		"email": "vasili@sviridov.ca",
-		"url": "http://github.com/vsviridov/"
-	},
-	"repository":
-	{
-		"type": "git",
-		"url": "http://github.com/vsviridov/motools-node.git"
-	},
-	"engines":
-	{
-		"node" : ">=0.4.0"
-	}
+  "name": "mootools",
+  "version": "1.4.5",
+  "description": "MooTools 1.4.5 Server library",
+  "keywords": ["mootools", "oop", "class"],
+  "homepage": "http://github.com/vsviridov/mootools-node",
+  "main": "./lib/mootools-core-1.4.5-server.js",
+  "author":
+  {
+    "name": "Vasili Sviridov",
+    "email": "vasili@sviridov.ca",
+    "url": "http://github.com/vsviridov/"
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "http://github.com/vsviridov/motools-node.git"
+  },
+  "engines":
+  {
+    "node" : ">=0.4.0"
+  },
+  "devDependencies":
+  {
+    "jshint" : ">= 1.1.0"
+  }
 }

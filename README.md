@@ -7,7 +7,7 @@ Mootools Server is a stripped down version that gives you all the nice things fr
 
 # Installation
 
-* Get npm (http://npmjs.org)
+* Get [Node](http://nodejs.org/)
 * run `npm install mootools`
 * Done
 

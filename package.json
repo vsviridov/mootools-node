@@ -1,6 +1,6 @@
 {
     "name": "mootools",
-    "version": "1.4.5-1",
+    "version": "1.4.5-2",
     "description": "MooTools 1.4.5 Server library",
     "keywords": ["mootools", "oop", "class"],
     "homepage": "http://github.com/vsviridov/mootools-node",

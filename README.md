@@ -1,4 +1,4 @@
-# MooTools 1.5.1 Server
+# MooTools 1.5.2 Server
 
 For more information about mootools in general I suggest you visit http://mootools.net
 In short it is a library for web development, with support for OOP.

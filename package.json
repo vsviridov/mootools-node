@@ -1,10 +1,10 @@
 {
     "name": "mootools",
-    "version": "1.5.1-2",
-    "description": "MooTools 1.5.1 Server library",
+    "version": "1.5.2",
+    "description": "MooTools 1.5.2 Server library",
     "keywords": ["mootools", "oop", "class"],
     "homepage": "http://github.com/vsviridov/mootools-node",
-    "main": "./lib/mootools-core-1.5.1-server.js",
+    "main": "./lib/mootools-core-1.5.2-server.js",
     "author":
     {
         "name": "Vasili Sviridov",

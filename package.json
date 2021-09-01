@@ -5,12 +5,8 @@
     "keywords": ["mootools", "oop", "class"],
     "homepage": "http://github.com/vsviridov/mootools-node",
     "main": "./lib/mootools-core-1.5.2-server.js",
-    "author":
-    {
-        "name": "Vasili Sviridov",
-        "email": "vasili@sviridov.ca",
-        "url": "http://github.com/vsviridov/"
-    },
+    "license": "MIT",
+    "author": "MooTools Team",
     "repository":
     {
         "type": "git",

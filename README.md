@@ -1,3 +1,7 @@
+Move with the times and use something modern instead.
+
+<details>
+
 # MooTools 1.5.2 Server
 
 For more information about mootools in general I suggest you visit http://mootools.net
@@ -34,3 +38,5 @@ Calling `require('mootools')` will import it into the global scope, and you'll b
     app.compute();
 
 You can also use other things that mootools provides, like `Options` and `Events` (mootools events might not be as efficient as the native `EventEmitter` stuff)
+
+</details>
